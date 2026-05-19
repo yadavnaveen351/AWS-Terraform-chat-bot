@@ -6,7 +6,7 @@ using local Terraform modules — powered by Groq.
 ---
 ## ## AWS Terraform AI chatbot demo
 
-![](https://github.com/yadavnaveen351/AWS-Terraform-chat-bot/blob/master/AWS-Terraform-AI.gif)
+![](https://github.com/yadavnaveen351/AWS-Terraform-chat-bot/blob/master/AWS-Terraform-chatbot.gif)
 
 ## AWS Terraform S3 Bucket creation
 
