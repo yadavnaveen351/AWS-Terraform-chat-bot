@@ -4,7 +4,7 @@ An **Agentic AI chatbot** that guides users through provisioning AWS resources
 using local Terraform modules — powered by Groq.
 
 ---
-## ## AWS Terraform AI chatbot demo
+## AWS Terraform AI chatbot demo
 
 ![](https://github.com/yadavnaveen351/AWS-Terraform-chat-bot/blob/master/AWS-Terraform-chatbot.gif)
 
